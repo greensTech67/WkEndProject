@@ -36,6 +36,10 @@ public class CourseDetails {
 
 		System.out.println("Added new Code");
 
+		System.out.println("Venkat12");
+		System.out.println("Venkat34");
+		System.out.println("Venkat5");
+
 	}
 
 }
