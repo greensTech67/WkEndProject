@@ -44,6 +44,10 @@ public class CourseDetails {
 		System.out.println("Venkat34");
 		System.out.println("Venkat5");
 
+		System.out.println("test1");
+		System.out.println("test2");
+		
+
 	}
 
 }
